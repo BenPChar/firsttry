@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: verdana;
+}
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
+.para {
+    color:gray;
+    font-size: 21px;
+}
